@@ -1,6 +1,8 @@
 ## project automation web for technical test radya labs
 this project is built with selenium 4 java using maven repository help
 
+auto file is in **_src/main/java_**
+
 *note: because the website **doesn't have a class, id, or name,** so I used **XPath** to found elements. <br>
 if there is an error like this while you're running this project, it is because the element you are referring to was removed from the DOM structure due to adding, changing, or deleting data.
 
